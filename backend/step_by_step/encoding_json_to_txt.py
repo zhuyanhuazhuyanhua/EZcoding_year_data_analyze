@@ -1,9 +1,9 @@
 import json
 
 # 输入文件路径
-input_file = r"C:\Users\1\Desktop\mashang\output.json"
+input_file = r"C:\Users\1\Desktop\mashang\backend\output.json"
 # 输出文件路径
-output_file = r"C:\Users\1\Desktop\mashang\output.txt"
+output_file = r"C:\Users\1\Desktop\mashang\backend\output.txt"
 
 try:
     # 打开并读取JSON文件

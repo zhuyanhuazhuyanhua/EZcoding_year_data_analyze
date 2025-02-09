@@ -1,8 +1,8 @@
 import json
 
 # 假设你的数据存储在 "data.txt" 文件中
-input_file = "C:\\Users\\1\\Desktop\\mashang\\response_data.txt"
-output_file = "output.json"
+input_file = "C:\\Users\\1\\Desktop\\mashang\\backend\\response_data.txt"
+output_file = "C:\\Users\\1\Desktop\\mashang\\backend\\output.json"
 
 # 读取文件内容
 with open(input_file, "r", encoding="utf-8") as file:

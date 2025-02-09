@@ -2,7 +2,7 @@ import requests
 import json
 
 # 让用户输入内容
-user_input = input("请输入你想要发送的内容：")
+user_input = "你好"
 
 # 请求的 URL 和参数
 url = "https://agentapi.baidu.com/assistant/conversation"  # 确保 URL 是正确的
