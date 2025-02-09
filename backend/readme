@@ -1,0 +1,13 @@
+backend\test_bug：
+backend\test_in.txt是基于 PowerShell 的脚本：测试响应是否正常进行，其结果保存在backend\response.txt中；如果响应码是200，则说明能够正常请求
+backend\text_data.txt是基于 PowerShell 的脚本：测试响应内容是否正常，其编码是什么方式，其结果在终端输出
+backend\test_data_to_txt.txt是基于PowerShell 的脚本：获取了编码方式后，将响应内容转化为txt文件backend\text_data.txt（否则不知道编码方式可能乱码）
+上述三个文件可以直接用backend\get_response.py实现，仅用于debug
+
+backend\step_by_step：
+backend\get_response.py：结果保存在backend\response_data.txt中；
+backend\change_data_txt_to_json.py:将backend\response_data.txt转化为json格式，保存在backend\output.json中
+backend\encoding_json_to_txt.py处理backend\output.json，提取text字段，保存在backend\output.txt中
+
+backend\one_step：
+total.py同时发起请求backend\response_data.txt，接受响应保存在，转化为初步txt文件，将初步txt文件转化为json文件保存在output.json，批量处理json文件，提取text字段，保存在output.txt中

@@ -1,0 +1,13 @@
+Invoke-WebRequest -Uri 'https://agentapi.baidu.com/assistant/conversation?appId=WHNtFgW5SyWUFmXRevTMhm0ugTIkKAbr&secretKey=qADNcRPAyM4OcvbUe5XwcBPaQbClKea8' -Method Post -ContentType 'application/json' -Body '{
+    "message": {
+        "content": {
+            "type": "text",
+            "value": {
+                "showText": "你好"
+            }
+        }
+    },
+    "source": "xxx",
+    "from": "openapi",
+    "openId": "xxx"
+}' | Out-File -FilePath "backend\response.txt"

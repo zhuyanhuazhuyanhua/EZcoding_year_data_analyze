@@ -1,0 +1,719 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><graph edgedefault="directed"><node id="昭析——大模型赋能的可视化智能体平台"/>
+<node id="昭析——大模型赋能的可视化智能体平台的编号"/>
+<node id="2.0"/>
+<node id="昭析——大模型赋能的可视化智能体平台的提交人"/>
+<node id="@访客 90704"/>
+<node id="昭析——大模型赋能的可视化智能体平台的提交日期"/>
+<node id="2025-01-20 00:00:00"/>
+<node id="昭析——大模型赋能的可视化智能体平台的邮箱"/>
+<node id="liuyuxuanlovept@bupt.edu.com"/>
+<node id="昭析——大模型赋能的可视化智能体平台的项目进展"/>
+<node id="完成初版平台开发任务"/>
+<node id="昭析——大模型赋能的可视化智能体平台的成员状态"/>
+<node id="个个都热情饱满 投入寒假大会战"/>
+<node id="昭析——大模型赋能的可视化智能体平台的项目健康程度"/>
+<node id="很健康，项目进展顺利"/>
+<node id="昭析——大模型赋能的可视化智能体平台的问题"/>
+<node id="有些产品内部机制仍需团队内部协作配合上与学校负责的相对应部门老师们合作商讨来确定最佳方案"/>
+<node id="昭析——大模型赋能的可视化智能体平台的需要资源"/>
+<node id="更优质的服务器，云平台域名，信息认证部署，新学期能让北邮同学们更便捷使用"/>
+<node id="昭析——大模型赋能的可视化智能体平台的假期计划"/>
+<node id="计划上线教学实验版本，在实验师生范围进行初测，然后根据用户反馈进行方案改良，开学力争发布最佳最震撼效果的版本"/>
+<node id="昭析——大模型赋能的可视化智能体平台的长期计划"/>
+<node id="计划深耕应用大模型能力进行视频动画动态生成渲染技术，提升平台响应速度，前端效果等体验"/>
+<node id="昭析——大模型赋能的可视化智能体平台的希望下学年创新社能举办什么类型的交流会"/>
+<node id="可以举办一用户交流答谢会这类活动，方便收集用户切实体验以及需求"/>
+<node id="智途邮你"/>
+<node id="智途邮你的编号"/>
+<node id="3.0"/>
+<node id="智途邮你的提交人"/>
+<node id="@访客 39884"/>
+<node id="智途邮你的提交日期"/>
+<node id="智途邮你的邮箱"/>
+<node id="2115930478@qq.com"/>
+<node id="智途邮你的项目进展"/>
+<node id="已初步完成大模型搭建"/>
+<node id="智途邮你的成员状态"/>
+<node id="赵屹宸 结合工作流进行项目功能开发与调试"/>
+<node id="智途邮你的项目健康程度"/>
+<node id="健康"/>
+<node id="智途邮你的问题"/>
+<node id="agent有时无法调用正确的子工作流"/>
+<node id="智途邮你的需要资源"/>
+<node id="智途邮你的假期计划"/>
+<node id="下学期结合使用数据进行大模型的功能完善并适当扩展功能"/>
+<node id="智途邮你的长期计划"/>
+<node id="智途邮你的希望下学年创新社能举办什么类型的交流会"/>
+<node id="nan"/>
+<node id="nan的编号"/>
+<node id="nan的提交人"/>
+<node id="nan的提交日期"/>
+<node id="nan的邮箱"/>
+<node id="nan的项目进展"/>
+<node id="nan的成员状态"/>
+<node id="陈禹志 前期开发平台测试，agent插件及工作流测试"/>
+<node id="nan的项目健康程度"/>
+<node id="nan的问题"/>
+<node id="nan的需要资源"/>
+<node id="nan的假期计划"/>
+<node id="nan的长期计划"/>
+<node id="nan的希望下学年创新社能举办什么类型的交流会"/>
+<node id="周子喻 数据收集 数据库整理 功能测试"/>
+<node id="王铭蔚 项目宣传"/>
+<node id="陈诺 调试agent运行情况"/>
+<node id="学业邮成"/>
+<node id="学业邮成的编号"/>
+<node id="4.0"/>
+<node id="学业邮成的提交人"/>
+<node id="@访客 29392"/>
+<node id="学业邮成的提交日期"/>
+<node id="学业邮成的邮箱"/>
+<node id="15011053072@bupt.edu.cn"/>
+<node id="学业邮成的项目进展"/>
+<node id="截止到12月中旬，已完成大部分核心功能的开发，后因期末考试暂时搁置，现已重启项目"/>
+<node id="学业邮成的成员状态"/>
+<node id="大家都很热情，项目推进较迅速"/>
+<node id="学业邮成的项目健康程度"/>
+<node id="已经实现的核心功能非常符合预期，遇到问题组员也会尽快反馈并形成可能的解决方案，项目目前也在稳步推进当中"/>
+<node id="学业邮成的问题"/>
+<node id="暂无太大问题"/>
+<node id="学业邮成的需要资源"/>
+<node id="需要一些工作流方面的详细教程"/>
+<node id="学业邮成的假期计划"/>
+<node id="计划2月中旬将所有核心功能开发完毕，随后进入测试——完善环节"/>
+<node id="学业邮成的长期计划"/>
+<node id="学业邮成的希望下学年创新社能举办什么类型的交流会"/>
+<node id="无意见"/>
+<node id="AIPractiX"/>
+<node id="AIPractiX的编号"/>
+<node id="5.0"/>
+<node id="AIPractiX的提交人"/>
+<node id="@唐炜涵"/>
+<node id="AIPractiX的提交日期"/>
+<node id="AIPractiX的邮箱"/>
+<node id="3768542049@qq.com"/>
+<node id="AIPractiX的项目进展"/>
+<node id="已经完成Demo版本，将在寒假完成正式版本"/>
+<node id="AIPractiX的成员状态"/>
+<node id="均在全力完成项目"/>
+<node id="AIPractiX的项目健康程度"/>
+<node id="较为健康"/>
+<node id="AIPractiX的问题"/>
+<node id="初发平台较不稳定，要在星火平台上写一遍流程再移植到初发，并且星火无工作空间，我们必须分处于一个人单独负责星火。"/>
+<node id="AIPractiX的需要资源"/>
+<node id="暂无"/>
+<node id="AIPractiX的假期计划"/>
+<node id="预计2月2日正式版知识库全部整理完毕，21日完成扣子端开发，同时也会完成初发端开发"/>
+<node id="AIPractiX的长期计划"/>
+<node id="3月进行用户测试"/>
+<node id="AIPractiX的希望下学年创新社能举办什么类型的交流会"/>
+<node id="技术交流，非常需要"/>
+<node id="邮go"/>
+<node id="邮go的编号"/>
+<node id="6.0"/>
+<node id="邮go的提交人"/>
+<node id="@访客 65815"/>
+<node id="邮go的提交日期"/>
+<node id="邮go的邮箱"/>
+<node id="13911533698@163.com"/>
+<node id="邮go的项目进展"/>
+<node id="已经完成用户需求调研，明确了网站需要的核心内容，完成了网站的原图设计，然后确定了网站的整体风格与方案，现在正在开发阶段"/>
+<node id="邮go的成员状态"/>
+<node id="目前成员状态不太活跃，但组员之间的交流还是经常会有的"/>
+<node id="邮go的项目健康程度"/>
+<node id="中"/>
+<node id="邮go的问题"/>
+<node id="还是经验不足"/>
+<node id="邮go的需要资源"/>
+<node id="目前所需的开发经验在网上都可以找到，主要是在团队合作上需要社团的帮助和经验分享"/>
+<node id="邮go的假期计划"/>
+<node id="每周组会，汇报进度"/>
+<node id="邮go的长期计划"/>
+<node id="在寒假结束后，以及开学的两个月内将这个网站的核心内容完成"/>
+<node id="邮go的希望下学年创新社能举办什么类型的交流会"/>
+<node id="团队合作相关的内容"/>
+<node id="医路邮你"/>
+<node id="医路邮你的编号"/>
+<node id="8.0"/>
+<node id="医路邮你的提交人"/>
+<node id="@访客 59144"/>
+<node id="医路邮你的提交日期"/>
+<node id="2025-01-21 00:00:00"/>
+<node id="医路邮你的邮箱"/>
+<node id="2024211121@bupt.edu.cn"/>
+<node id="医路邮你的项目进展"/>
+<node id="主要功能开发中"/>
+<node id="医路邮你的成员状态"/>
+<node id="大部分成员状态良好"/>
+<node id="医路邮你的项目健康程度"/>
+<node id="一般"/>
+<node id="医路邮你的问题"/>
+<node id="开发的生命周期不规律，成员开始想放假"/>
+<node id="医路邮你的需要资源"/>
+<node id="医路邮你的假期计划"/>
+<node id="完成核心功能开发"/>
+<node id="医路邮你的长期计划"/>
+<node id="医路邮你的希望下学年创新社能举办什么类型的交流会"/>
+<node id="开发心得"/>
+<node id="第一版人机交互测试"/>
+<node id="收集测试反馈"/>
+<node id="悠学邮航"/>
+<node id="悠学邮航的编号"/>
+<node id="9.0"/>
+<node id="悠学邮航的提交人"/>
+<node id="@访客 77797"/>
+<node id="悠学邮航的提交日期"/>
+<node id="悠学邮航的邮箱"/>
+<node id="2088733452@bupt.edu.cn"/>
+<node id="悠学邮航的项目进展"/>
+<node id="项目目前正在进行学习，构建功能框架，并将各项功能的代码实现逐步完善"/>
+<node id="悠学邮航的成员状态"/>
+<node id="团队成员始终保持高度的工作热情与专注度，确保项目技术核心部分的稳定与创新。团队成员积极学习新技术、新框架，通过参加线上课程、技术研讨会等方式，不断提升自身技术水平。同时，团队成员在代码质量、系统性能优化等方面也取得了显著进展。"/>
+<node id="悠学邮航的项目健康程度"/>
+<node id="项目前期因为成员完成课业的原因暂时停摆一段时间，在寒假已经恢复正常。目前，各位团队成员正在加紧追赶计划进度，同时，团队也已经根据新的时间点制作了新的计划和目标。目前来看，项目进行是顺利和相对健康的，但同时仍然面对一些问题和挑战。"/>
+<node id="悠学邮航的问题"/>
+<node id="目前项目的技术问题还有一些等待接下来更深入的学习解决。同时对更多功能的开发和思考还没有彻底完善。"/>
+<node id="悠学邮航的需要资源"/>
+<node id="希望创新社能够为我们提供更多的发展规划和项目建议。同时，在我们遇到困难的时候希望社团能够为我们进行解答。也希望马上项目能够更加完善，这样我们就可以依据马上平台进行更多更深层次的开发。"/>
+<node id="悠学邮航的假期计划"/>
+<node id="希望在寒假期间内完成大部分的项目制作，同时，对未来的发展有一个清晰的规划，力求在规定时间内制作出一套精良的项目。"/>
+<node id="悠学邮航的长期计划"/>
+<node id="希望能够努力对该项目进行完善和向前发展，致力于把项目做大做强，最好能够应用于学生的实际生活中，同时成为更专业，更流行的创新创业作品。"/>
+<node id="悠学邮航的希望下学年创新社能举办什么类型的交流会"/>
+<node id="创新创业的方法，思路交流会。也希望能够邀请创新创业的成功人物进行答疑解惑，或者是创新社集体组织参加别的创新会议。"/>
+<node id="昭析计算物理"/>
+<node id="昭析计算物理的编号"/>
+<node id="10.0"/>
+<node id="昭析计算物理的提交人"/>
+<node id="@访客 67772"/>
+<node id="昭析计算物理的提交日期"/>
+<node id="昭析计算物理的邮箱"/>
+<node id="2067350636@qq.com"/>
+<node id="昭析计算物理的项目进展"/>
+<node id="小组成员已学习了智能体的制作方法"/>
+<node id="昭析计算物理的成员状态"/>
+<node id="马文尧 陈述阳同学负责数据库的搭建部分"/>
+<node id="昭析计算物理的项目健康程度"/>
+<node id="已制定明确的工作计划和分工"/>
+<node id="昭析计算物理的问题"/>
+<node id="不知道如何让智能体对mworks语言的代码进行纠错，使用mworks语言编程"/>
+<node id="昭析计算物理的需要资源"/>
+<node id="需要大量mworks语言的错误代码，对智能体进行训练"/>
+<node id="昭析计算物理的假期计划"/>
+<node id="希望将该项目的主体部分做完"/>
+<node id="昭析计算物理的长期计划"/>
+<node id="昭析计算物理的希望下学年创新社能举办什么类型的交流会"/>
+<node id="学长分享经验的交流会"/>
+<node id="对智能体目标软件——MWORKS有初步了解"/>
+<node id="陆畅 徐静苇负责熟悉mworks语言 搭建知识库"/>
+<node id="已制定未来的计划安排"/>
+<node id="王欣君负责熟悉mworks语言 搭建智能体"/>
+<node id="已落实相应的资源"/>
+<node id="各位同学初步对mworks语言有一定了解，搭建知识库、数据库两部分处于起始状态，搭建智能体尚未开始"/>
+<node id="从以上状况来看，项目健康程度良好"/>
+<node id="PMInsight"/>
+<node id="PMInsight的编号"/>
+<node id="11.0"/>
+<node id="PMInsight的提交人"/>
+<node id="@Guest User 52568"/>
+<node id="PMInsight的提交日期"/>
+<node id="PMInsight的邮箱"/>
+<node id="20785244@qq.com"/>
+<node id="PMInsight的项目进展"/>
+<node id="①完成了初发的PMInsight1.0版本"/>
+<node id="PMInsight的成员状态"/>
+<node id="每周一组会，组员基本能够明确分工并如期完成，可以再提高积极主动性。"/>
+<node id="PMInsight的项目健康程度"/>
+<node id="较为健康，预计可以在寒假完成项目主要内容。"/>
+<node id="PMInsight的问题"/>
+<node id="有些功能实现需要咨询码上相关技术，目前遇到的问题是工作流版本无法插入图片/跳转外部链接，目前还没有联系到项目部对接同学，可能后续加上微信再反馈一下"/>
+<node id="PMInsight的需要资源"/>
+<node id="PMInsight的假期计划"/>
+<node id="完成工作流版本"/>
+<node id="PMInsight的长期计划"/>
+<node id="PMInsight的希望下学年创新社能举办什么类型的交流会"/>
+<node id="有负责人能分享项目经验，例如关于项目规划/技术/管理/工具等方面都可以"/>
+<node id="②因码上功能限制转向coze平台开发了引导教学版本，可直接在coze上搜索项目名称访问"/>
+<node id="③目前正在开发初发2.0版本（工作流）"/>
+<node id="朋邮"/>
+<node id="朋邮的编号"/>
+<node id="12.0"/>
+<node id="朋邮的提交人"/>
+<node id="@访客 89586"/>
+<node id="朋邮的提交日期"/>
+<node id="2025-01-22 00:00:00"/>
+<node id="朋邮的邮箱"/>
+<node id="shixinze1221@163.com"/>
+<node id="朋邮的项目进展"/>
+<node id="基本完成初级阶段"/>
+<node id="朋邮的成员状态"/>
+<node id="状态良好"/>
+<node id="朋邮的项目健康程度"/>
+<node id="A"/>
+<node id="朋邮的问题"/>
+<node id="无"/>
+<node id="朋邮的需要资源"/>
+<node id="大数据"/>
+<node id="朋邮的假期计划"/>
+<node id="研讨中"/>
+<node id="朋邮的长期计划"/>
+<node id="朋邮的希望下学年创新社能举办什么类型的交流会"/>
+<node id="平台技能交流会"/>
+<node id="iStudy"/>
+<node id="iStudy的编号"/>
+<node id="13.0"/>
+<node id="iStudy的提交人"/>
+<node id="@访客 85611"/>
+<node id="iStudy的提交日期"/>
+<node id="iStudy的邮箱"/>
+<node id="Dashwood2011@163.com"/>
+<node id="iStudy的项目进展"/>
+<node id="完成了市场调研，完成了当前市场上类似项目的调查，明确了项目最终内容，建立了完成项目的正确心态"/>
+<node id="iStudy的成员状态"/>
+<node id="没有中途放弃或停摆的成员，能进行正常的分工协作"/>
+<node id="iStudy的项目健康程度"/>
+<node id="良好"/>
+<node id="iStudy的问题"/>
+<node id="没有很厉害的技术人员，大家都是从零学起，开发demo的难度略高"/>
+<node id="iStudy的需要资源"/>
+<node id="一些技术路径上的辅助规划和指导"/>
+<node id="iStudy的假期计划"/>
+<node id="完成项目的全面设计与初步demo开发"/>
+<node id="iStudy的长期计划"/>
+<node id="iStudy的希望下学年创新社能举办什么类型的交流会"/>
+<node id="前沿/新兴技术介绍会或相关论文导读分享会"/>
+<node id="云师"/>
+<node id="云师的编号"/>
+<node id="14.0"/>
+<node id="云师的提交人"/>
+<node id="@访客 99570"/>
+<node id="云师的提交日期"/>
+<node id="云师的邮箱"/>
+<node id="Yaojiahappy666@163.com"/>
+<node id="云师的项目进展"/>
+<node id="已在初发平台完成简单配置的搭建"/>
+<node id="云师的成员状态"/>
+<node id="可以随时联系到对方，回复积极。"/>
+<node id="云师的项目健康程度"/>
+<node id="云师的问题"/>
+<node id="对初发工作流配置操作还不熟练，正在学习"/>
+<node id="云师的需要资源"/>
+<node id="暂时不需要额外的资源"/>
+<node id="云师的假期计划"/>
+<node id="完成任务流配置的开发"/>
+<node id="云师的长期计划"/>
+<node id="云师的希望下学年创新社能举办什么类型的交流会"/>
+<node id="优秀项目交流会"/>
+<node id="邮理邮据"/>
+<node id="邮理邮据的编号"/>
+<node id="15.0"/>
+<node id="邮理邮据的提交人"/>
+<node id="@访客 72835"/>
+<node id="邮理邮据的提交日期"/>
+<node id="邮理邮据的邮箱"/>
+<node id="3404923708@qq.com"/>
+<node id="邮理邮据的项目进展"/>
+<node id="大模型搭建知识与demo完成同步进行，正在进行网页设计工作"/>
+<node id="邮理邮据的成员状态"/>
+<node id="状态稳定，经常相互交流"/>
+<node id="邮理邮据的项目健康程度"/>
+<node id="A-"/>
+<node id="邮理邮据的问题"/>
+<node id="假期内组员合作相对较为困难"/>
+<node id="邮理邮据的需要资源"/>
+<node id="辩论相关学习资料、大模型系统学习资料"/>
+<node id="邮理邮据的假期计划"/>
+<node id="搭建出demo版本"/>
+<node id="邮理邮据的长期计划"/>
+<node id="搭建出专业性强的辩论ai平台"/>
+<node id="邮理邮据的希望下学年创新社能举办什么类型的交流会"/>
+<node id="项目交流沙龙"/>
+<node id="艾说"/>
+<node id="艾说的编号"/>
+<node id="16.0"/>
+<node id="艾说的提交人"/>
+<node id="@访客 58606"/>
+<node id="艾说的提交日期"/>
+<node id="2025-01-23 00:00:00"/>
+<node id="艾说的邮箱"/>
+<node id="2890398274@qq.com"/>
+<node id="艾说的项目进展"/>
+<node id="我们的项目在立项之后立刻开始技术的学习，首先初步尝试在github上寻找开源的预训练大语言模型进行部署和测试，随后进行分工，了解并学习大语言模型的训练和微调，但是由于对项目的需求还不够明确，导致学习的进度也比较缓慢，经过沙龙之后与码上的前辈们的交流，我们转变思路，开始从前端入手，先构建起网页框架，并经过讨论确定需要实现的功能，现在网页还在初步建设阶段。"/>
+<node id="艾说的成员状态"/>
+<node id="施承豪的任务是模型微调，正在学习相关的技术，以及将模型对接前端。"/>
+<node id="艾说的项目健康程度"/>
+<node id="人员健康度：团队内部交流有所欠缺，希望之后频繁沟通，相互了解项目进度，共同讨论遇到的问题，及时解决问题"/>
+<node id="艾说的问题"/>
+<node id="目前还没有遇到特别大的难题，许多小问题只需要再多学习和研究马上就能解决"/>
+<node id="艾说的需要资源"/>
+<node id="算力资源"/>
+<node id="艾说的假期计划"/>
+<node id="假期分为三个阶段，第一个阶段是完成前段框架，第二个阶段是对接预训练的大模型，第三个阶段再完善网页美术ui等"/>
+<node id="艾说的长期计划"/>
+<node id="我们希望我们的项目能实现多个功能，首先在假期中希望能完成最基础的剧情续写功能，开学以后希望继续完善剧本的创作功能"/>
+<node id="艾说的希望下学年创新社能举办什么类型的交流会"/>
+<node id="希望学长能交流一下开发的经验，例如如何从无到有学习一门新的技术"/>
+<node id="杜志鸣负责平时的开发日志记录和周报记录。"/>
+<node id="资源健康度：目前我们将重心放在前端网页的搭建上，仅需在网上进行学习，后续模型的微调等可能需要借助性能更高的设备，笔记本缺乏相应的性能"/>
+<node id="吴浩凯正在学习和搭建项目的网页。"/>
+<node id="技术健康度：目前掌握的技术还不足以搭建起满足用户需求的平台，但是我们还在不断的学习，希望可以尽可能将项目完成"/>
+<edge source="昭析——大模型赋能的可视化智能体平台" target="昭析——大模型赋能的可视化智能体平台的编号"/>
+<edge source="昭析——大模型赋能的可视化智能体平台" target="昭析——大模型赋能的可视化智能体平台的提交人"/>
+<edge source="昭析——大模型赋能的可视化智能体平台" target="昭析——大模型赋能的可视化智能体平台的提交日期"/>
+<edge source="昭析——大模型赋能的可视化智能体平台" target="昭析——大模型赋能的可视化智能体平台的邮箱"/>
+<edge source="昭析——大模型赋能的可视化智能体平台" target="昭析——大模型赋能的可视化智能体平台的项目进展"/>
+<edge source="昭析——大模型赋能的可视化智能体平台" target="昭析——大模型赋能的可视化智能体平台的成员状态"/>
+<edge source="昭析——大模型赋能的可视化智能体平台" target="昭析——大模型赋能的可视化智能体平台的项目健康程度"/>
+<edge source="昭析——大模型赋能的可视化智能体平台" target="昭析——大模型赋能的可视化智能体平台的问题"/>
+<edge source="昭析——大模型赋能的可视化智能体平台" target="昭析——大模型赋能的可视化智能体平台的需要资源"/>
+<edge source="昭析——大模型赋能的可视化智能体平台" target="昭析——大模型赋能的可视化智能体平台的假期计划"/>
+<edge source="昭析——大模型赋能的可视化智能体平台" target="昭析——大模型赋能的可视化智能体平台的长期计划"/>
+<edge source="昭析——大模型赋能的可视化智能体平台" target="昭析——大模型赋能的可视化智能体平台的希望下学年创新社能举办什么类型的交流会"/>
+<edge source="昭析——大模型赋能的可视化智能体平台的编号" target="2.0"/>
+<edge source="昭析——大模型赋能的可视化智能体平台的提交人" target="@访客 90704"/>
+<edge source="昭析——大模型赋能的可视化智能体平台的提交日期" target="2025-01-20 00:00:00"/>
+<edge source="昭析——大模型赋能的可视化智能体平台的邮箱" target="liuyuxuanlovept@bupt.edu.com"/>
+<edge source="昭析——大模型赋能的可视化智能体平台的项目进展" target="完成初版平台开发任务"/>
+<edge source="昭析——大模型赋能的可视化智能体平台的成员状态" target="个个都热情饱满 投入寒假大会战"/>
+<edge source="昭析——大模型赋能的可视化智能体平台的项目健康程度" target="很健康，项目进展顺利"/>
+<edge source="昭析——大模型赋能的可视化智能体平台的问题" target="有些产品内部机制仍需团队内部协作配合上与学校负责的相对应部门老师们合作商讨来确定最佳方案"/>
+<edge source="昭析——大模型赋能的可视化智能体平台的需要资源" target="更优质的服务器，云平台域名，信息认证部署，新学期能让北邮同学们更便捷使用"/>
+<edge source="昭析——大模型赋能的可视化智能体平台的假期计划" target="计划上线教学实验版本，在实验师生范围进行初测，然后根据用户反馈进行方案改良，开学力争发布最佳最震撼效果的版本"/>
+<edge source="昭析——大模型赋能的可视化智能体平台的长期计划" target="计划深耕应用大模型能力进行视频动画动态生成渲染技术，提升平台响应速度，前端效果等体验"/>
+<edge source="昭析——大模型赋能的可视化智能体平台的希望下学年创新社能举办什么类型的交流会" target="可以举办一用户交流答谢会这类活动，方便收集用户切实体验以及需求"/>
+<edge source="智途邮你" target="智途邮你的编号"/>
+<edge source="智途邮你" target="智途邮你的提交人"/>
+<edge source="智途邮你" target="智途邮你的提交日期"/>
+<edge source="智途邮你" target="智途邮你的邮箱"/>
+<edge source="智途邮你" target="智途邮你的项目进展"/>
+<edge source="智途邮你" target="智途邮你的成员状态"/>
+<edge source="智途邮你" target="智途邮你的项目健康程度"/>
+<edge source="智途邮你" target="智途邮你的问题"/>
+<edge source="智途邮你" target="智途邮你的需要资源"/>
+<edge source="智途邮你" target="智途邮你的假期计划"/>
+<edge source="智途邮你" target="智途邮你的长期计划"/>
+<edge source="智途邮你" target="智途邮你的希望下学年创新社能举办什么类型的交流会"/>
+<edge source="智途邮你的编号" target="3.0"/>
+<edge source="智途邮你的提交人" target="@访客 39884"/>
+<edge source="智途邮你的提交日期" target="2025-01-20 00:00:00"/>
+<edge source="智途邮你的邮箱" target="2115930478@qq.com"/>
+<edge source="智途邮你的项目进展" target="已初步完成大模型搭建"/>
+<edge source="智途邮你的成员状态" target="赵屹宸 结合工作流进行项目功能开发与调试"/>
+<edge source="智途邮你的项目健康程度" target="健康"/>
+<edge source="智途邮你的问题" target="agent有时无法调用正确的子工作流"/>
+<edge source="智途邮你的假期计划" target="下学期结合使用数据进行大模型的功能完善并适当扩展功能"/>
+<edge source="nan" target="nan的编号"/>
+<edge source="nan" target="nan的提交人"/>
+<edge source="nan" target="nan的提交日期"/>
+<edge source="nan" target="nan的邮箱"/>
+<edge source="nan" target="nan的项目进展"/>
+<edge source="nan" target="nan的成员状态"/>
+<edge source="nan" target="nan的项目健康程度"/>
+<edge source="nan" target="nan的问题"/>
+<edge source="nan" target="nan的需要资源"/>
+<edge source="nan" target="nan的假期计划"/>
+<edge source="nan" target="nan的长期计划"/>
+<edge source="nan" target="nan的希望下学年创新社能举办什么类型的交流会"/>
+<edge source="nan的项目进展" target="对智能体目标软件——MWORKS有初步了解"/>
+<edge source="nan的项目进展" target="②因码上功能限制转向coze平台开发了引导教学版本，可直接在coze上搜索项目名称访问"/>
+<edge source="nan的项目进展" target="③目前正在开发初发2.0版本（工作流）"/>
+<edge source="nan的成员状态" target="陈禹志 前期开发平台测试，agent插件及工作流测试"/>
+<edge source="nan的成员状态" target="周子喻 数据收集 数据库整理 功能测试"/>
+<edge source="nan的成员状态" target="王铭蔚 项目宣传"/>
+<edge source="nan的成员状态" target="陈诺 调试agent运行情况"/>
+<edge source="nan的成员状态" target="陆畅 徐静苇负责熟悉mworks语言 搭建知识库"/>
+<edge source="nan的成员状态" target="王欣君负责熟悉mworks语言 搭建智能体"/>
+<edge source="nan的成员状态" target="各位同学初步对mworks语言有一定了解，搭建知识库、数据库两部分处于起始状态，搭建智能体尚未开始"/>
+<edge source="nan的成员状态" target="杜志鸣负责平时的开发日志记录和周报记录。"/>
+<edge source="nan的成员状态" target="吴浩凯正在学习和搭建项目的网页。"/>
+<edge source="nan的项目健康程度" target="已制定未来的计划安排"/>
+<edge source="nan的项目健康程度" target="已落实相应的资源"/>
+<edge source="nan的项目健康程度" target="从以上状况来看，项目健康程度良好"/>
+<edge source="nan的项目健康程度" target="资源健康度：目前我们将重心放在前端网页的搭建上，仅需在网上进行学习，后续模型的微调等可能需要借助性能更高的设备，笔记本缺乏相应的性能"/>
+<edge source="nan的项目健康程度" target="技术健康度：目前掌握的技术还不足以搭建起满足用户需求的平台，但是我们还在不断的学习，希望可以尽可能将项目完成"/>
+<edge source="nan的假期计划" target="第一版人机交互测试"/>
+<edge source="nan的假期计划" target="收集测试反馈"/>
+<edge source="学业邮成" target="学业邮成的编号"/>
+<edge source="学业邮成" target="学业邮成的提交人"/>
+<edge source="学业邮成" target="学业邮成的提交日期"/>
+<edge source="学业邮成" target="学业邮成的邮箱"/>
+<edge source="学业邮成" target="学业邮成的项目进展"/>
+<edge source="学业邮成" target="学业邮成的成员状态"/>
+<edge source="学业邮成" target="学业邮成的项目健康程度"/>
+<edge source="学业邮成" target="学业邮成的问题"/>
+<edge source="学业邮成" target="学业邮成的需要资源"/>
+<edge source="学业邮成" target="学业邮成的假期计划"/>
+<edge source="学业邮成" target="学业邮成的长期计划"/>
+<edge source="学业邮成" target="学业邮成的希望下学年创新社能举办什么类型的交流会"/>
+<edge source="学业邮成的编号" target="4.0"/>
+<edge source="学业邮成的提交人" target="@访客 29392"/>
+<edge source="学业邮成的提交日期" target="2025-01-20 00:00:00"/>
+<edge source="学业邮成的邮箱" target="15011053072@bupt.edu.cn"/>
+<edge source="学业邮成的项目进展" target="截止到12月中旬，已完成大部分核心功能的开发，后因期末考试暂时搁置，现已重启项目"/>
+<edge source="学业邮成的成员状态" target="大家都很热情，项目推进较迅速"/>
+<edge source="学业邮成的项目健康程度" target="已经实现的核心功能非常符合预期，遇到问题组员也会尽快反馈并形成可能的解决方案，项目目前也在稳步推进当中"/>
+<edge source="学业邮成的问题" target="暂无太大问题"/>
+<edge source="学业邮成的需要资源" target="需要一些工作流方面的详细教程"/>
+<edge source="学业邮成的假期计划" target="计划2月中旬将所有核心功能开发完毕，随后进入测试——完善环节"/>
+<edge source="学业邮成的希望下学年创新社能举办什么类型的交流会" target="无意见"/>
+<edge source="AIPractiX" target="AIPractiX的编号"/>
+<edge source="AIPractiX" target="AIPractiX的提交人"/>
+<edge source="AIPractiX" target="AIPractiX的提交日期"/>
+<edge source="AIPractiX" target="AIPractiX的邮箱"/>
+<edge source="AIPractiX" target="AIPractiX的项目进展"/>
+<edge source="AIPractiX" target="AIPractiX的成员状态"/>
+<edge source="AIPractiX" target="AIPractiX的项目健康程度"/>
+<edge source="AIPractiX" target="AIPractiX的问题"/>
+<edge source="AIPractiX" target="AIPractiX的需要资源"/>
+<edge source="AIPractiX" target="AIPractiX的假期计划"/>
+<edge source="AIPractiX" target="AIPractiX的长期计划"/>
+<edge source="AIPractiX" target="AIPractiX的希望下学年创新社能举办什么类型的交流会"/>
+<edge source="AIPractiX的编号" target="5.0"/>
+<edge source="AIPractiX的提交人" target="@唐炜涵"/>
+<edge source="AIPractiX的提交日期" target="2025-01-20 00:00:00"/>
+<edge source="AIPractiX的邮箱" target="3768542049@qq.com"/>
+<edge source="AIPractiX的项目进展" target="已经完成Demo版本，将在寒假完成正式版本"/>
+<edge source="AIPractiX的成员状态" target="均在全力完成项目"/>
+<edge source="AIPractiX的项目健康程度" target="较为健康"/>
+<edge source="AIPractiX的问题" target="初发平台较不稳定，要在星火平台上写一遍流程再移植到初发，并且星火无工作空间，我们必须分处于一个人单独负责星火。"/>
+<edge source="AIPractiX的需要资源" target="暂无"/>
+<edge source="AIPractiX的假期计划" target="预计2月2日正式版知识库全部整理完毕，21日完成扣子端开发，同时也会完成初发端开发"/>
+<edge source="AIPractiX的长期计划" target="3月进行用户测试"/>
+<edge source="AIPractiX的希望下学年创新社能举办什么类型的交流会" target="技术交流，非常需要"/>
+<edge source="邮go" target="邮go的编号"/>
+<edge source="邮go" target="邮go的提交人"/>
+<edge source="邮go" target="邮go的提交日期"/>
+<edge source="邮go" target="邮go的邮箱"/>
+<edge source="邮go" target="邮go的项目进展"/>
+<edge source="邮go" target="邮go的成员状态"/>
+<edge source="邮go" target="邮go的项目健康程度"/>
+<edge source="邮go" target="邮go的问题"/>
+<edge source="邮go" target="邮go的需要资源"/>
+<edge source="邮go" target="邮go的假期计划"/>
+<edge source="邮go" target="邮go的长期计划"/>
+<edge source="邮go" target="邮go的希望下学年创新社能举办什么类型的交流会"/>
+<edge source="邮go的编号" target="6.0"/>
+<edge source="邮go的提交人" target="@访客 65815"/>
+<edge source="邮go的提交日期" target="2025-01-20 00:00:00"/>
+<edge source="邮go的邮箱" target="13911533698@163.com"/>
+<edge source="邮go的项目进展" target="已经完成用户需求调研，明确了网站需要的核心内容，完成了网站的原图设计，然后确定了网站的整体风格与方案，现在正在开发阶段"/>
+<edge source="邮go的成员状态" target="目前成员状态不太活跃，但组员之间的交流还是经常会有的"/>
+<edge source="邮go的项目健康程度" target="中"/>
+<edge source="邮go的问题" target="还是经验不足"/>
+<edge source="邮go的需要资源" target="目前所需的开发经验在网上都可以找到，主要是在团队合作上需要社团的帮助和经验分享"/>
+<edge source="邮go的假期计划" target="每周组会，汇报进度"/>
+<edge source="邮go的长期计划" target="在寒假结束后，以及开学的两个月内将这个网站的核心内容完成"/>
+<edge source="邮go的希望下学年创新社能举办什么类型的交流会" target="团队合作相关的内容"/>
+<edge source="医路邮你" target="医路邮你的编号"/>
+<edge source="医路邮你" target="医路邮你的提交人"/>
+<edge source="医路邮你" target="医路邮你的提交日期"/>
+<edge source="医路邮你" target="医路邮你的邮箱"/>
+<edge source="医路邮你" target="医路邮你的项目进展"/>
+<edge source="医路邮你" target="医路邮你的成员状态"/>
+<edge source="医路邮你" target="医路邮你的项目健康程度"/>
+<edge source="医路邮你" target="医路邮你的问题"/>
+<edge source="医路邮你" target="医路邮你的需要资源"/>
+<edge source="医路邮你" target="医路邮你的假期计划"/>
+<edge source="医路邮你" target="医路邮你的长期计划"/>
+<edge source="医路邮你" target="医路邮你的希望下学年创新社能举办什么类型的交流会"/>
+<edge source="医路邮你的编号" target="8.0"/>
+<edge source="医路邮你的提交人" target="@访客 59144"/>
+<edge source="医路邮你的提交日期" target="2025-01-21 00:00:00"/>
+<edge source="医路邮你的邮箱" target="2024211121@bupt.edu.cn"/>
+<edge source="医路邮你的项目进展" target="主要功能开发中"/>
+<edge source="医路邮你的成员状态" target="大部分成员状态良好"/>
+<edge source="医路邮你的项目健康程度" target="一般"/>
+<edge source="医路邮你的问题" target="开发的生命周期不规律，成员开始想放假"/>
+<edge source="医路邮你的需要资源" target="暂无"/>
+<edge source="医路邮你的假期计划" target="完成核心功能开发"/>
+<edge source="医路邮你的希望下学年创新社能举办什么类型的交流会" target="开发心得"/>
+<edge source="悠学邮航" target="悠学邮航的编号"/>
+<edge source="悠学邮航" target="悠学邮航的提交人"/>
+<edge source="悠学邮航" target="悠学邮航的提交日期"/>
+<edge source="悠学邮航" target="悠学邮航的邮箱"/>
+<edge source="悠学邮航" target="悠学邮航的项目进展"/>
+<edge source="悠学邮航" target="悠学邮航的成员状态"/>
+<edge source="悠学邮航" target="悠学邮航的项目健康程度"/>
+<edge source="悠学邮航" target="悠学邮航的问题"/>
+<edge source="悠学邮航" target="悠学邮航的需要资源"/>
+<edge source="悠学邮航" target="悠学邮航的假期计划"/>
+<edge source="悠学邮航" target="悠学邮航的长期计划"/>
+<edge source="悠学邮航" target="悠学邮航的希望下学年创新社能举办什么类型的交流会"/>
+<edge source="悠学邮航的编号" target="9.0"/>
+<edge source="悠学邮航的提交人" target="@访客 77797"/>
+<edge source="悠学邮航的提交日期" target="2025-01-21 00:00:00"/>
+<edge source="悠学邮航的邮箱" target="2088733452@bupt.edu.cn"/>
+<edge source="悠学邮航的项目进展" target="项目目前正在进行学习，构建功能框架，并将各项功能的代码实现逐步完善"/>
+<edge source="悠学邮航的成员状态" target="团队成员始终保持高度的工作热情与专注度，确保项目技术核心部分的稳定与创新。团队成员积极学习新技术、新框架，通过参加线上课程、技术研讨会等方式，不断提升自身技术水平。同时，团队成员在代码质量、系统性能优化等方面也取得了显著进展。"/>
+<edge source="悠学邮航的项目健康程度" target="项目前期因为成员完成课业的原因暂时停摆一段时间，在寒假已经恢复正常。目前，各位团队成员正在加紧追赶计划进度，同时，团队也已经根据新的时间点制作了新的计划和目标。目前来看，项目进行是顺利和相对健康的，但同时仍然面对一些问题和挑战。"/>
+<edge source="悠学邮航的问题" target="目前项目的技术问题还有一些等待接下来更深入的学习解决。同时对更多功能的开发和思考还没有彻底完善。"/>
+<edge source="悠学邮航的需要资源" target="希望创新社能够为我们提供更多的发展规划和项目建议。同时，在我们遇到困难的时候希望社团能够为我们进行解答。也希望马上项目能够更加完善，这样我们就可以依据马上平台进行更多更深层次的开发。"/>
+<edge source="悠学邮航的假期计划" target="希望在寒假期间内完成大部分的项目制作，同时，对未来的发展有一个清晰的规划，力求在规定时间内制作出一套精良的项目。"/>
+<edge source="悠学邮航的长期计划" target="希望能够努力对该项目进行完善和向前发展，致力于把项目做大做强，最好能够应用于学生的实际生活中，同时成为更专业，更流行的创新创业作品。"/>
+<edge source="悠学邮航的希望下学年创新社能举办什么类型的交流会" target="创新创业的方法，思路交流会。也希望能够邀请创新创业的成功人物进行答疑解惑，或者是创新社集体组织参加别的创新会议。"/>
+<edge source="昭析计算物理" target="昭析计算物理的编号"/>
+<edge source="昭析计算物理" target="昭析计算物理的提交人"/>
+<edge source="昭析计算物理" target="昭析计算物理的提交日期"/>
+<edge source="昭析计算物理" target="昭析计算物理的邮箱"/>
+<edge source="昭析计算物理" target="昭析计算物理的项目进展"/>
+<edge source="昭析计算物理" target="昭析计算物理的成员状态"/>
+<edge source="昭析计算物理" target="昭析计算物理的项目健康程度"/>
+<edge source="昭析计算物理" target="昭析计算物理的问题"/>
+<edge source="昭析计算物理" target="昭析计算物理的需要资源"/>
+<edge source="昭析计算物理" target="昭析计算物理的假期计划"/>
+<edge source="昭析计算物理" target="昭析计算物理的长期计划"/>
+<edge source="昭析计算物理" target="昭析计算物理的希望下学年创新社能举办什么类型的交流会"/>
+<edge source="昭析计算物理的编号" target="10.0"/>
+<edge source="昭析计算物理的提交人" target="@访客 67772"/>
+<edge source="昭析计算物理的提交日期" target="2025-01-21 00:00:00"/>
+<edge source="昭析计算物理的邮箱" target="2067350636@qq.com"/>
+<edge source="昭析计算物理的项目进展" target="小组成员已学习了智能体的制作方法"/>
+<edge source="昭析计算物理的成员状态" target="马文尧 陈述阳同学负责数据库的搭建部分"/>
+<edge source="昭析计算物理的项目健康程度" target="已制定明确的工作计划和分工"/>
+<edge source="昭析计算物理的问题" target="不知道如何让智能体对mworks语言的代码进行纠错，使用mworks语言编程"/>
+<edge source="昭析计算物理的需要资源" target="需要大量mworks语言的错误代码，对智能体进行训练"/>
+<edge source="昭析计算物理的假期计划" target="希望将该项目的主体部分做完"/>
+<edge source="昭析计算物理的希望下学年创新社能举办什么类型的交流会" target="学长分享经验的交流会"/>
+<edge source="PMInsight" target="PMInsight的编号"/>
+<edge source="PMInsight" target="PMInsight的提交人"/>
+<edge source="PMInsight" target="PMInsight的提交日期"/>
+<edge source="PMInsight" target="PMInsight的邮箱"/>
+<edge source="PMInsight" target="PMInsight的项目进展"/>
+<edge source="PMInsight" target="PMInsight的成员状态"/>
+<edge source="PMInsight" target="PMInsight的项目健康程度"/>
+<edge source="PMInsight" target="PMInsight的问题"/>
+<edge source="PMInsight" target="PMInsight的需要资源"/>
+<edge source="PMInsight" target="PMInsight的假期计划"/>
+<edge source="PMInsight" target="PMInsight的长期计划"/>
+<edge source="PMInsight" target="PMInsight的希望下学年创新社能举办什么类型的交流会"/>
+<edge source="PMInsight的编号" target="11.0"/>
+<edge source="PMInsight的提交人" target="@Guest User 52568"/>
+<edge source="PMInsight的提交日期" target="2025-01-21 00:00:00"/>
+<edge source="PMInsight的邮箱" target="20785244@qq.com"/>
+<edge source="PMInsight的项目进展" target="①完成了初发的PMInsight1.0版本"/>
+<edge source="PMInsight的成员状态" target="每周一组会，组员基本能够明确分工并如期完成，可以再提高积极主动性。"/>
+<edge source="PMInsight的项目健康程度" target="较为健康，预计可以在寒假完成项目主要内容。"/>
+<edge source="PMInsight的问题" target="有些功能实现需要咨询码上相关技术，目前遇到的问题是工作流版本无法插入图片/跳转外部链接，目前还没有联系到项目部对接同学，可能后续加上微信再反馈一下"/>
+<edge source="PMInsight的需要资源" target="暂无"/>
+<edge source="PMInsight的假期计划" target="完成工作流版本"/>
+<edge source="PMInsight的希望下学年创新社能举办什么类型的交流会" target="有负责人能分享项目经验，例如关于项目规划/技术/管理/工具等方面都可以"/>
+<edge source="朋邮" target="朋邮的编号"/>
+<edge source="朋邮" target="朋邮的提交人"/>
+<edge source="朋邮" target="朋邮的提交日期"/>
+<edge source="朋邮" target="朋邮的邮箱"/>
+<edge source="朋邮" target="朋邮的项目进展"/>
+<edge source="朋邮" target="朋邮的成员状态"/>
+<edge source="朋邮" target="朋邮的项目健康程度"/>
+<edge source="朋邮" target="朋邮的问题"/>
+<edge source="朋邮" target="朋邮的需要资源"/>
+<edge source="朋邮" target="朋邮的假期计划"/>
+<edge source="朋邮" target="朋邮的长期计划"/>
+<edge source="朋邮" target="朋邮的希望下学年创新社能举办什么类型的交流会"/>
+<edge source="朋邮的编号" target="12.0"/>
+<edge source="朋邮的提交人" target="@访客 89586"/>
+<edge source="朋邮的提交日期" target="2025-01-22 00:00:00"/>
+<edge source="朋邮的邮箱" target="shixinze1221@163.com"/>
+<edge source="朋邮的项目进展" target="基本完成初级阶段"/>
+<edge source="朋邮的成员状态" target="状态良好"/>
+<edge source="朋邮的项目健康程度" target="A"/>
+<edge source="朋邮的问题" target="无"/>
+<edge source="朋邮的需要资源" target="大数据"/>
+<edge source="朋邮的假期计划" target="研讨中"/>
+<edge source="朋邮的希望下学年创新社能举办什么类型的交流会" target="平台技能交流会"/>
+<edge source="iStudy" target="iStudy的编号"/>
+<edge source="iStudy" target="iStudy的提交人"/>
+<edge source="iStudy" target="iStudy的提交日期"/>
+<edge source="iStudy" target="iStudy的邮箱"/>
+<edge source="iStudy" target="iStudy的项目进展"/>
+<edge source="iStudy" target="iStudy的成员状态"/>
+<edge source="iStudy" target="iStudy的项目健康程度"/>
+<edge source="iStudy" target="iStudy的问题"/>
+<edge source="iStudy" target="iStudy的需要资源"/>
+<edge source="iStudy" target="iStudy的假期计划"/>
+<edge source="iStudy" target="iStudy的长期计划"/>
+<edge source="iStudy" target="iStudy的希望下学年创新社能举办什么类型的交流会"/>
+<edge source="iStudy的编号" target="13.0"/>
+<edge source="iStudy的提交人" target="@访客 85611"/>
+<edge source="iStudy的提交日期" target="2025-01-22 00:00:00"/>
+<edge source="iStudy的邮箱" target="Dashwood2011@163.com"/>
+<edge source="iStudy的项目进展" target="完成了市场调研，完成了当前市场上类似项目的调查，明确了项目最终内容，建立了完成项目的正确心态"/>
+<edge source="iStudy的成员状态" target="没有中途放弃或停摆的成员，能进行正常的分工协作"/>
+<edge source="iStudy的项目健康程度" target="良好"/>
+<edge source="iStudy的问题" target="没有很厉害的技术人员，大家都是从零学起，开发demo的难度略高"/>
+<edge source="iStudy的需要资源" target="一些技术路径上的辅助规划和指导"/>
+<edge source="iStudy的假期计划" target="完成项目的全面设计与初步demo开发"/>
+<edge source="iStudy的长期计划" target="暂无"/>
+<edge source="iStudy的希望下学年创新社能举办什么类型的交流会" target="前沿/新兴技术介绍会或相关论文导读分享会"/>
+<edge source="云师" target="云师的编号"/>
+<edge source="云师" target="云师的提交人"/>
+<edge source="云师" target="云师的提交日期"/>
+<edge source="云师" target="云师的邮箱"/>
+<edge source="云师" target="云师的项目进展"/>
+<edge source="云师" target="云师的成员状态"/>
+<edge source="云师" target="云师的项目健康程度"/>
+<edge source="云师" target="云师的问题"/>
+<edge source="云师" target="云师的需要资源"/>
+<edge source="云师" target="云师的假期计划"/>
+<edge source="云师" target="云师的长期计划"/>
+<edge source="云师" target="云师的希望下学年创新社能举办什么类型的交流会"/>
+<edge source="云师的编号" target="14.0"/>
+<edge source="云师的提交人" target="@访客 99570"/>
+<edge source="云师的提交日期" target="2025-01-22 00:00:00"/>
+<edge source="云师的邮箱" target="Yaojiahappy666@163.com"/>
+<edge source="云师的项目进展" target="已在初发平台完成简单配置的搭建"/>
+<edge source="云师的成员状态" target="可以随时联系到对方，回复积极。"/>
+<edge source="云师的项目健康程度" target="良好"/>
+<edge source="云师的问题" target="对初发工作流配置操作还不熟练，正在学习"/>
+<edge source="云师的需要资源" target="暂时不需要额外的资源"/>
+<edge source="云师的假期计划" target="完成任务流配置的开发"/>
+<edge source="云师的希望下学年创新社能举办什么类型的交流会" target="优秀项目交流会"/>
+<edge source="邮理邮据" target="邮理邮据的编号"/>
+<edge source="邮理邮据" target="邮理邮据的提交人"/>
+<edge source="邮理邮据" target="邮理邮据的提交日期"/>
+<edge source="邮理邮据" target="邮理邮据的邮箱"/>
+<edge source="邮理邮据" target="邮理邮据的项目进展"/>
+<edge source="邮理邮据" target="邮理邮据的成员状态"/>
+<edge source="邮理邮据" target="邮理邮据的项目健康程度"/>
+<edge source="邮理邮据" target="邮理邮据的问题"/>
+<edge source="邮理邮据" target="邮理邮据的需要资源"/>
+<edge source="邮理邮据" target="邮理邮据的假期计划"/>
+<edge source="邮理邮据" target="邮理邮据的长期计划"/>
+<edge source="邮理邮据" target="邮理邮据的希望下学年创新社能举办什么类型的交流会"/>
+<edge source="邮理邮据的编号" target="15.0"/>
+<edge source="邮理邮据的提交人" target="@访客 72835"/>
+<edge source="邮理邮据的提交日期" target="2025-01-22 00:00:00"/>
+<edge source="邮理邮据的邮箱" target="3404923708@qq.com"/>
+<edge source="邮理邮据的项目进展" target="大模型搭建知识与demo完成同步进行，正在进行网页设计工作"/>
+<edge source="邮理邮据的成员状态" target="状态稳定，经常相互交流"/>
+<edge source="邮理邮据的项目健康程度" target="A-"/>
+<edge source="邮理邮据的问题" target="假期内组员合作相对较为困难"/>
+<edge source="邮理邮据的需要资源" target="辩论相关学习资料、大模型系统学习资料"/>
+<edge source="邮理邮据的假期计划" target="搭建出demo版本"/>
+<edge source="邮理邮据的长期计划" target="搭建出专业性强的辩论ai平台"/>
+<edge source="邮理邮据的希望下学年创新社能举办什么类型的交流会" target="项目交流沙龙"/>
+<edge source="艾说" target="艾说的编号"/>
+<edge source="艾说" target="艾说的提交人"/>
+<edge source="艾说" target="艾说的提交日期"/>
+<edge source="艾说" target="艾说的邮箱"/>
+<edge source="艾说" target="艾说的项目进展"/>
+<edge source="艾说" target="艾说的成员状态"/>
+<edge source="艾说" target="艾说的项目健康程度"/>
+<edge source="艾说" target="艾说的问题"/>
+<edge source="艾说" target="艾说的需要资源"/>
+<edge source="艾说" target="艾说的假期计划"/>
+<edge source="艾说" target="艾说的长期计划"/>
+<edge source="艾说" target="艾说的希望下学年创新社能举办什么类型的交流会"/>
+<edge source="艾说的编号" target="16.0"/>
+<edge source="艾说的提交人" target="@访客 58606"/>
+<edge source="艾说的提交日期" target="2025-01-23 00:00:00"/>
+<edge source="艾说的邮箱" target="2890398274@qq.com"/>
+<edge source="艾说的项目进展" target="我们的项目在立项之后立刻开始技术的学习，首先初步尝试在github上寻找开源的预训练大语言模型进行部署和测试，随后进行分工，了解并学习大语言模型的训练和微调，但是由于对项目的需求还不够明确，导致学习的进度也比较缓慢，经过沙龙之后与码上的前辈们的交流，我们转变思路，开始从前端入手，先构建起网页框架，并经过讨论确定需要实现的功能，现在网页还在初步建设阶段。"/>
+<edge source="艾说的成员状态" target="施承豪的任务是模型微调，正在学习相关的技术，以及将模型对接前端。"/>
+<edge source="艾说的项目健康程度" target="人员健康度：团队内部交流有所欠缺，希望之后频繁沟通，相互了解项目进度，共同讨论遇到的问题，及时解决问题"/>
+<edge source="艾说的问题" target="目前还没有遇到特别大的难题，许多小问题只需要再多学习和研究马上就能解决"/>
+<edge source="艾说的需要资源" target="算力资源"/>
+<edge source="艾说的假期计划" target="假期分为三个阶段，第一个阶段是完成前段框架，第二个阶段是对接预训练的大模型，第三个阶段再完善网页美术ui等"/>
+<edge source="艾说的长期计划" target="我们希望我们的项目能实现多个功能，首先在假期中希望能完成最基础的剧情续写功能，开学以后希望继续完善剧本的创作功能"/>
+<edge source="艾说的希望下学年创新社能举办什么类型的交流会" target="希望学长能交流一下开发的经验，例如如何从无到有学习一门新的技术"/>
+</graph></graphml>

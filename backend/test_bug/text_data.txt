@@ -1,0 +1,35 @@
+try {
+    $response = Invoke-WebRequest -Uri 'https://agentapi.baidu.com/assistant/conversation?appId=WHNtFgW5SyWUFmXRevTMhm0ugTIkKAbr&secretKey=qADNcRPAyM4OcvbUe5XwcBPaQbClKea8' -Method Post -ContentType 'application/json' -Body '{
+        "message": {
+            "content": {
+                "type": "text",
+                "value": {
+                    "showText": "你好"
+                }
+            }
+        },
+        "source": "xxx",
+        "from": "openapi",
+        "openId": "xxx"
+    }'
+    
+    # 获取响应内容
+    $content = $response.Content
+
+    # 输出响应内容
+    Write-Host "Response Content: $content"
+    
+    # 检查响应内容的编码
+    # PowerShell 默认使用 UTF-8 编码，但可以通过以下方式确认
+    $encoding = $response.RawContentEncoding
+    Write-Host "Response Encoding: $encoding"
+     $contentType = $response.Headers['Content-Type']
+    if ($contentType -match 'charset=') {
+        $encoding = $Matches[0].Split('=')[1].Trim()
+        Write-Host "Response Encoding: $encoding"
+    } else {
+        Write-Host "Response Encoding: UTF-8 (assumed)"
+    }
+} catch {
+    Write-Host "Error: $_"
+}

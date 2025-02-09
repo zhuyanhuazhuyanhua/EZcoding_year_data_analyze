@@ -1,0 +1,32 @@
+try {
+    $response = Invoke-WebRequest -Uri 'https://agentapi.baidu.com/assistant/conversation?appId=WHNtFgW5SyWUFmXRevTMhm0ugTIkKAbr&secretKey=qADNcRPAyM4OcvbUe5XwcBPaQbClKea8' -Method Post -ContentType 'application/json' -Body '{
+        "message": {
+            "content": {
+                "type": "text",
+                "value": {
+                    "showText": "你好"
+                }
+            }
+        },
+        "source": "xxx",
+        "from": "openapi",
+        "openId": "xxx"
+    }'
+    $responseContent = $response.Content
+
+    # 检查文件是否存在，如果不存在则创建
+    if (-Not (Test-Path -Path "backend\response_data.txt")) {
+        New-Item -Path "response_data.txt" -ItemType File -Encoding UTF8
+    }
+
+    # 将响应内容写入文件，确保使用 UTF-8 编码
+    Add-Content -Path "backend\response_data.txt" -Value $responseContent -Encoding UTF8
+    Write-Host "响应已成功保存到 response_data.txt 文件中。"
+} catch {
+    Write-Host "Error: $_"
+    if (-Not (Test-Path -Path "backend\response_data.txt")) {
+        New-Item -Path "response_data.txt" -ItemType File -Encoding UTF8
+    }
+    Add-Content -Path "response_data.txt" -Value "Error: $_" -Encoding UTF8
+    Write-Host "错误信息已保存到 response_data.txt 文件中。"
+}
