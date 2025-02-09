@@ -24,8 +24,8 @@
 - **`node_modules`**  
   通过 npm 安装的第三方依赖项。
 
-## 使用方法（可以在百度灵境网站上搜索https://agents.baidu.com/agent/preview/WHNtFgW5SyWUFmXRevTMhm0ugTIkKAbr使用）
-（可以在后端使用:运行total.py）（可以在运行前后端微服务使用：运行app.py后浏览器打开http://localhost:5000）
+## 使用方法
+（可以在百度灵境网站上搜索https://agents.baidu.com/agent/preview/WHNtFgW5SyWUFmXRevTMhm0ugTIkKAbr）（可以在后端使用:运行total.py）（可以在运行前后端微服务使用：运行app.py后浏览器打开http://localhost:5000）
 - **1. 克隆项目**：
    ```bash
    git clone https://github.com/yourusername/yourprojectname.git
